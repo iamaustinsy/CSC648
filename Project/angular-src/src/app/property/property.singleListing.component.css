@@ -1,0 +1,40 @@
+.body {
+  overflow-x: hidden;
+  width: 100%;
+  color: #6b6b6b;
+}
+.mySlides {
+  display:none
+}
+
+.fa {
+  color: darkgray;
+}
+
+.propertyOverview {
+  padding-left: 30%
+}
+
+.prop-title {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 0px;
+}
+
+.my-container {
+  margin: 0 auto;
+  max-width: 600px;
+  max-height: 600px;
+  width: 100%;
+  height: 100%;
+}
+
+.fav-btn-container {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.fav-btn {
+  width: 150px;
+}
